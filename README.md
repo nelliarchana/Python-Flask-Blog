@@ -2,6 +2,7 @@
 This is a simple blog using flask
 
 INSTALL
+
 You can start this project in vscode or pycharm 
 1. Create virtual enviroment and activate it.
 
